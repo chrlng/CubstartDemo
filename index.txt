@@ -6,4 +6,3 @@ Shopping list:
 -meat
 -fruits
 -juice
--bread
